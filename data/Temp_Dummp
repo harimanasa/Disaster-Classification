@@ -1,0 +1,28 @@
+3[1]
+train_vocab_size = len(t.word_index) + 1
+test_vocab_size = len(tt.word_index) + 1
+
+
+
+
+Resources:
+1) Tokenizer
+
+https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
+
+https://keras.io/preprocessing/text/
+
+https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer
+
+https://towardsdatascience.com/text-classification-in-keras-part-2-how-to-use-the-keras-tokenizer-word-representations-fd571674df23
+
+
+
+This report explored the basic static LSTM and feed forward neural net used to classify tweets
+from Hillary Clinton or Donald Trump. To optimize the solution, GloVe word vector based on
+Twitter corpus was used. We then explored the effect of weight optimization iterations and LSTM
+input batch sizes on the test set scores. The LSTM was also compared to a 10 fold cross validated
+logistic regression model. The best score of 0.36772 was achieved by a LSTM with 800 optimization
+iterations and a input batch size of 64 tweets.
+
+This project enabled us to explore the basic static LSTM and feed forward neural networks. We could classify a dataset of tweets into 'disaster related' and 'non-disaster related' classes. We used GloVe word vector based on Twitter corpus, in order to optimize the process. After that, we experimented by varying weight optimization iterations and LSTM input batch sizes to the test set scores. We compared the LSTM using a 10-fold cross validation model. 
