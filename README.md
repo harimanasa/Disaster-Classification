@@ -13,3 +13,11 @@ interpret that this tweet is not about a real disaster, but it is less clear to 
 actively ongoing Kaggle competition. We want to explore possible predictors and conclude on the right predictors
 to solve this classification problem. The dataset has 10,000 tweets that were hand classified[1]. We will explore
 Naïve Bayes, LSTM and CNN classifiers to solve this problem.
+
+<br/>
+<br/>
+
+<b>Below is the kaggle score we achieved </b>
+
+
+<img src="results/KaggleScore.png"> </img>
