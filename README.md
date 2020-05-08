@@ -34,7 +34,7 @@ Naïve Bayes, LSTM and CNN classifiers to solve this problem.
 <br/>
 <b>Kaggle Score vs Optimization iterations </b>
 <img src="results/kaggle_vs_Iterations.png"> </img>
-<img src="results/kaggle_vs_Iterations.png_2"> </img>
+<img src="results/kaggle_vs_Iterations_2.png"> </img>
 <br/>
 <br/>
 
