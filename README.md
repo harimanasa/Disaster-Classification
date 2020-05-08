@@ -22,17 +22,21 @@ Naïve Bayes, LSTM and CNN classifiers to solve this problem.
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 <b>Training Log Loss with iterations </b>
 <img src="results/logloss.png"> </img>
 
 <br/>
 <br/>
-
+<br/>
+<br/>
 <b>Kaggle Score vs Optimization iterations </b>
 <img src="results/kaggle_vs_Iterations.png"> </img>
 <img src="results/kaggle_vs_Iterations.png_2"> </img>
-
+<br/>
+<br/>
 
 <br/>
 <br/>
