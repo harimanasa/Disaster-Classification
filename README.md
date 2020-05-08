@@ -25,14 +25,14 @@ Naïve Bayes, LSTM and CNN classifiers to solve this problem.
 <br/>
 <br/>
 
-<b>Training Log Loss with iterations </b>
+<b>Training Log Loss with iterations </b><br/>
 <img src="results/logloss.png"> </img>
 
 <br/>
 <br/>
 <br/>
 <br/>
-<b>Kaggle Score vs Optimization iterations </b>
+<b>Kaggle Score vs Optimization iterations </b><br/>
 <img src="results/kaggle_vs_Iterations.png"> </img>
 <img src="results/kaggle_vs_Iterations_2.png"> </img>
 <br/>
@@ -41,7 +41,7 @@ Naïve Bayes, LSTM and CNN classifiers to solve this problem.
 <br/>
 <br/>
 
-<b>Test Scores vs Batch Size </b>
+<b>Test Scores vs Batch Size </b><br/>
 <img src="results/kaggle_vs_batchSize.png"> </img>
 <img src="results/kaggle_vs_batchSize_2.png"> </img>
 
